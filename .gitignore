@@ -1,2 +1,13 @@
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Dependencies
 node_modules/
 yarn.lock
+
+# Outputs
+dist/
