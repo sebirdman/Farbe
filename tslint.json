@@ -1,0 +1,26 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "linterOptions": {
+        "exclude": [
+            "POC"
+        ]
+    },
+    "jsRules": {},
+    "rules": {
+        "trailing-comma": [
+            false
+        ],
+        "max-classes-per-file": [
+            false
+        ],
+        "max-line-length": [
+            false
+        ],
+        "no-trailing-whitespace": false,
+        "eofline": false
+    },
+    "rulesDirectory": [],
+}
